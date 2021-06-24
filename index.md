@@ -1,0 +1,3 @@
+# Snek
+![](images/6.png)
+[First](1.md) [Prev](5.md) [Next](index.md) [Last](index.md)
