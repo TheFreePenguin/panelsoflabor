@@ -1,0 +1,3 @@
+# Successful Communist-ruled Countries
+![](images/12.png)
+[First](1.md) [Prev](11.md) [Next](index.md) [Last](index.md)
