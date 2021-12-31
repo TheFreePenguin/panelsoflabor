@@ -2,4 +2,4 @@
 
 [Click here to read the newest comic!](last.md)
 
-[FAQ]
+[FAQ](about.md)
